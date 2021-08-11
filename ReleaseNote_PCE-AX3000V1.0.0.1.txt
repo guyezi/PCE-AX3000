@@ -1,0 +1,32 @@
+ASUS EW-7122PBX (Intel AX200) Intel(R) Wi-Fi 6 AX200 160Mhz Wireless Card release note
+ 
+WiFi	PCI\VEN_8086&DEV_2723&SUBSYS_00808086
+BT		USB\VID_8087&PID_0029
+
+Auto run Support Language:English / TraditionalChinese / Simplified Chinese / French / German /
+		Italian / Russian / Spanish / Turkish / Prothuguese(Brazil) / Czech / Danish / Finnish /
+		Hungarian / Malay / Norwegian / Polish / Portuguese(Portugal) / Romania / Swedish /
+		Thai / Ukrainian / Japanese
+  
+ Driver Description: Intel(R) Wi-Fi 6 AX200 160Mhz
+					 Intel(R) Wireless Bluetooth(R)
+ OS Support: Windows 10(x64) only
+			 Linux kernel 5.1 wifi driver only
+
+=========================================================
+	V1.0.0.1	Isabel	2019-10-21
+=========================================================
+	WiFi Driver:
+	Win10x64 driver:(21.40.2.2)
+		1.first release.
+	
+	BT Driver:
+	Win10x64 (21.40.1.1)
+		1.first release.
+		
+	Linux Driver:(iwlwifi-cc-46.3cfab8da.0)
+		support kernel 5.1+
+		1.first release.
+		
+	Auto run
+		1.first release.
